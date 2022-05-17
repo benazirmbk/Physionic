@@ -1,0 +1,317 @@
+* {
+	font-family: 'Montserrat', sans-serif;
+}
+.subtitle {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 200px;
+	margin-left: 200px;
+}
+.h1 {
+	font-family: inherit;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 58px;
+	line-height: 80px;
+	letter-spacing: 0.2px;
+	color: #ffffff;
+}
+
+.p {
+	font-family: inherit;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 30px;
+	letter-spacing: 0.2px;
+	color: #ffffff;
+}
+.btn {
+	background-color: #23a6f0 !important;
+	border: #23a6f0;
+	border-radius: 5%;
+}
+.btn__sub {
+	width: 185px;
+	height: 52px;
+	margin-top: 100px;
+	background-color: #23a6f0;
+	border-radius: 37px;
+	color: white;
+	border: #23a6f0;
+	padding: 10px;
+}
+.btn__sub2 {
+	width: 185px;
+	height: 52px;
+	margin-top: 100px;
+	background-color: transparent;
+	color: white;
+	border-color: white;
+	border-radius: 37px;
+	padding: 10px;
+}
+
+.booking {
+	border-radius: 10px;
+	margin-bottom: 50px;
+	background-color: #ffffff;
+	width: 328px;
+	height: 510px;
+}
+.book-app {
+	font-weight: 700;
+	margin-top: 40px;
+	font-family: inherit;
+	font-size: 24px;
+	line-height: 32px;
+	letter-spacing: 0.1px;
+	text-align: center;
+	color: #252b42;
+}
+.form-control {
+	width: 246px;
+	height: 46px;
+	margin-left: 42px;
+	background-color: #dddddd;
+}
+
+.form-label {
+	margin-left: 42px;
+	font-family: inherit;
+	font-size: 14px;
+	font-weight: 600;
+	color: #252b42;
+}
+
+.btn__sub3 {
+	width: 185px;
+	height: 52px;
+	background-color: #23a6f0;
+	border-radius: 37px;
+	color: white;
+	border: #23a6f0;
+	padding: 10px;
+	margin-left: 80px;
+}
+
+/* main */
+.main__text {
+	margin-top: 112px;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 57px;
+	letter-spacing: 0.2px;
+	color: #252b42;
+}
+.main__text2 {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 20px;
+	text-align: center;
+	letter-spacing: 0.2px;
+	color: #737373;
+}
+.cards {
+	margin-top: 112px;
+	display: flex;
+	justify-content: space-evenly;
+}
+.card {
+	border-radius: 11px;
+}
+.white-circle {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 72px;
+	height: 72px;
+	background-color: #ffffff;
+	border-radius: 50%;
+}
+.card-header {
+	background-color: #8ec2f2;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.card-title {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0.1px;
+	color: #ffffff;
+}
+
+.card-text {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 24px;
+	letter-spacing: 0.2px;
+	color: #737373;
+}
+.card-link {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 24px;
+	letter-spacing: 0.2px;
+	color: #23a6f0;
+	text-decoration: none;
+}
+/* main2 */
+.img {
+	padding-left: 15px;
+}
+/* main Faq */
+
+.card-head {
+	padding-left: 15px;
+	margin-top: 10px;
+}
+.card-topic {
+	padding-left: 5px;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0.1px;
+	color: #252b42;
+}
+
+.cards1 {
+	margin-top: 112px;
+	display: flex;
+	justify-content: space-evenly;
+}
+.cards2 {
+	margin-top: 55px;
+	display: flex;
+	justify-content: space-evenly;
+}
+.cards3 {
+	margin-top: 55px;
+	display: flex;
+	justify-content: space-evenly;
+}
+.pricing__container {
+	display: flex;
+	justify-content: center;
+}
+.free {
+	width: 327px;
+	height: 665px;
+	border: 0.25rem solid;
+	border-color: #23a6f0;
+	margin-top: 40px;
+}
+.standard {
+	width: 327px;
+	height: 705px;
+	border: 0.25rem solid;
+	border-color: #23a6f0;
+	background-color: #252b42;
+}
+.premium {
+	width: 327px;
+	height: 665px;
+	border: 0.25rem solid;
+	border-color: #23a6f0;
+	margin-top: 40px;
+}
+/* pricing */
+.text-style {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 32px;
+	letter-spacing: 0.1px;
+	color: #252b42;
+	text-align: center;
+}
+.text-style2 {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 24px;
+	text-align: center;
+	letter-spacing: 0.1px;
+	color: #737373;
+	text-align: center;
+}
+.price__img {
+	text-align: center;
+}
+
+.list {
+	list-style: none;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 24px;
+	letter-spacing: 0.2px;
+	color: #252b42;
+}
+.btn-free {
+	margin-top: 50px;
+}
+.try {
+	width: 246px;
+	height: 52px;
+	background: #23a6f0;
+	border-radius: 5px;
+	border: none;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 22px;
+	text-align: center;
+	letter-spacing: 0.2px;
+	color: #ffffff;
+}
+.text-style3 {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 32px;
+	letter-spacing: 0.1px;
+	color: #ffffff;
+	text-align: center;
+}
+.text-style4 {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 24px;
+	text-align: center;
+	letter-spacing: 0.1px;
+	color: #ffffff;
+}
+.list2 {
+	list-style: none;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 24px;
+	letter-spacing: 0.2px;
+	color: #ffffff;
+}
+/* footer */
